@@ -1,4 +1,8 @@
-
+""" Author: SARATH
+ Description: This script detects facial landmarks in images from a specified folder
+ and draws an adaptive chin contour based on facial proportions (mouth to chin).
+ The final images are saved to a results folder.
+"""
 
 
 import cv2

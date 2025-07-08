@@ -21,7 +21,7 @@ The script processes a directory of images, detects faces using Google's MediaPi
 
 ## Requirements
 
--   Python 3.x
+-   Python 3.10.0
 -   OpenCV (`opencv-python`)
 -   MediaPipe (`mediapipe`)
 -   NumPy (`numpy`)

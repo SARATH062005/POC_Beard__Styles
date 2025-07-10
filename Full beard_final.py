@@ -1,3 +1,6 @@
+"""This is only for Full Beard Style"""
+
+
 import cv2
 import mediapipe as mp
 import numpy as np

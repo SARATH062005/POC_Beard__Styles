@@ -1,4 +1,4 @@
-# POC_Goatee
+# POC_Beard styles
 This project is a computer vision tool that automatically draws a beard-like contour on human faces in images.
 
 # Adaptive Chin Contour Generator
